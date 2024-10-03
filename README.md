@@ -102,3 +102,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-faiaz&" alt="abrar-faiaz" />
 </p>
+
+---
+
+<br clear="both">
+
+<!-- Snake animation section -->
+<img src="https://raw.githubusercontent.com/abrar-faiaz/abrar-faiaz/output/snake.svg" alt="Snake animation" />
