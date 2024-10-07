@@ -20,6 +20,9 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
+  <a href="https://abrarfaiaz.netlify.app/" target="_blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="website" height="40" width="50" />
+  </a>
   <a href="https://linkedin.com/in/abrar-faiaz-913407260" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abrar-faiaz-913407260" height="40" width="50" />
   </a>
