@@ -3,20 +3,6 @@
 
 ---
 
-<h2 align="center">💻 Recent Projects</h2>
-
-<p align="center">
-   <ul>
-      <li>⚖️ <a href="https://ai-legal-assistant-bd.netlify.app/" target="_blank">Digital-Security-Legal-Advisor_AI-Chatbot</a></li>
-      <li>🌪️ <a href="https://huggingface.co/spaces/Abrar20/Cyclone-path-state" target="_blank">Cyclone-Path-Speed-Predictor</a></li>
-      <li>📈 <a href="https://huggingface.co/spaces/Abrar20/Stock-Price-Prediction-Monte-Carlo" target="_blank">Stock-Price-Prediction-Monte-Carlo</a></li>
-      <li>🌀 <a href="https://huggingface.co/spaces/Abrar20/Cyclone-bot" target="_blank">Disaster Tailored Guideline Generator-Langchain</a></li>
-      <li>🔬 <a href="https://huggingface.co/spaces/Abrar20/Mineral-Crystal-Identifier" target="_blank">Mineral Crystal Identifier-DL</a></li>
-   </ul>
-</p>
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
